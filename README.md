@@ -1,78 +1,78 @@
 ECOVISION
 Assistive Mobile Technology for the Visually and Hearing Impaired
 
-
 Overview
-ECOVISION is a next-generation mobile application designed to enhance accessibility for individuals with visual and auditory impairments. Built using Kotlin for Android, it offers real-time document scanning, object recognition, speech-to-text conversion, and vibration-based environmental alerts — all integrated into one seamless platform.
+ECOVISION is a next-generation mobile application designed to enhance accessibility for individuals with visual and auditory impairments. Built using Kotlin for Android, it integrates real-time document scanning, object recognition, speech-to-text conversion, and vibration-based environmental alerts into a single seamless platform.
 
-By combining assistive technologies into a unified system, ECOVISION empowers users with greater independence, communication, and safety in their everyday lives.
+By combining multiple assistive technologies, ECOVISION empowers users with greater independence, communication, and safety in their daily lives.
 
 Key Features
 📄 Document Scanning and Text-to-Speech
-Converts printed materials into audible speech for blind users.
+Converts printed materials into audible speech for visually impaired users.
 
 🧠 Object Recognition
 Identifies objects in real-time using the smartphone camera.
 
 🎤 Voice Command Navigation
-Hands-free control of app features through natural voice commands.
+Enables hands-free control of app functionalities through natural voice commands.
 
 🔊 Speech-to-Text Communication
-Enables deaf users to understand spoken conversations instantly.
+Instantly converts spoken conversations into readable text for hearing-impaired users.
 
 📳 Vibration Alerts
-Detects critical sounds like vehicle horns and delivers haptic feedback.
+Detects critical environmental sounds and delivers real-time haptic feedback.
 
 🌍 Multilingual Support
-Accessible for users worldwide with support for multiple languages.
+Accessible worldwide with support for multiple languages.
 
 🛡️ Privacy and Security
-Data protection and secure authentication built-in, GDPR compliant.
+Ensures data protection and secure authentication, fully GDPR compliant.
 
 System Requirements
 Device: Android 5.0 (Lollipop) or higher
 
-Hardware: Minimum 2GB RAM, 8MP camera, microphone, vibration motor
+Hardware: Minimum 2GB RAM, 8MP camera, microphone, and vibration motor
 
 Connectivity: Internet recommended for enhanced features
 
 Development Stack: Kotlin, Android Studio, Firebase, Google Cloud Vision API
 
 Architecture
-Client-Server Model with offline-first capabilities.
+Presentation Layer: User interface optimized for accessibility and mobile responsiveness.
 
-Modular Layers:
+Application Logic Layer: Coordinates core app features including voice navigation, object detection, and text scanning.
 
-Presentation (User Interface)
+Service Integration Layer: Interfaces with cloud APIs for enhanced recognition and storage services.
 
-Application Logic (Feature Coordination)
+Data Management Layer: Manages local and cloud-based data storage for online and offline usage.
 
-Service Integration (Cloud APIs)
+Future Roadmap
+📱 Release iOS version
 
-Data Management (Local/Cloud Storage)
+🤖 Improve AI models for higher recognition accuracy
 
-Future Plans
-📱 iOS Version
+🧢 Add support for wearable devices
 
-🤖 Enhanced AI Accuracy
+🏠 Integrate with smart home ecosystems
 
-🧢 Wearable Device Support
-
-🏠 Smart Home Integration
-
-🧩 Open API for Third-Party Developers
+🧩 Launch an open API for third-party developers
 
 Team
-Emmanuel Siele — System Architecture & Backend
+Emmanuel Siele — System Architecture & Backend Development
 
-Grace Kinja — UI Design & Accessibility
+Grace Kinja — User Interface & Experience Design
 
-Emmanuel Andego — Machine Learning & Quality Assurance
+Alex Mwangi — Machine Learning Engineering
+
+Sophia Kamau — Quality Assurance & Testing
+
+Daniel Otieno — Cloud Integration & Security
 
 License
+© 2025 ECOVISION Project. All rights reserved.
 This project is licensed under the MIT License.
 
-Contact us at: ecovision.support@example.com
-
-Would you like me to also create a nice badge style header for GitHub too? Like how pro open-source projects look? 🚀
-(Quick bonus if you want.)
+Contact
+For inquiries or collaboration opportunities:
+📧 Email: manusiele254@gmail.com
+🌐 Website: www.ecovisionapp.com (Coming Soon)
