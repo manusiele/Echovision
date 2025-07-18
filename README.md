@@ -62,9 +62,9 @@ Emmanuel Siele — System Architecture & Backend Development
 
 Grace Kinja — User Interface & Experience Design
 
-Alex Mwangi — Machine Learning Engineering
+Emmmanue Omondi — Machine Learning Engineering
 
-Sophia Kamau — Quality Assurance & Testing
+Sharon Khasandi— Quality Assurance & Testing
 
 Daniel Otieno — Cloud Integration & Security
 
