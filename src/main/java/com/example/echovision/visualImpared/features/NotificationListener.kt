@@ -15,7 +15,6 @@ import kotlin.math.min
 
 /**
  * A notification listener service that reads notifications aloud for visually impaired users.
- * This service captures incoming system notifications and converts them to speech.
  */
 class NotificationListener : NotificationListenerService() {
 
@@ -125,4 +124,5 @@ class NotificationListener : NotificationListenerService() {
             return flat?.contains(componentName.flattenToString()) ?: false
         }
     }
+
 }
